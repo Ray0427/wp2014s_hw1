@@ -4,3 +4,11 @@ a{
 	text-align: center;
 	margin: 0px;
 }
+div.scene1 img, div.scene2 img{
+	display: block;
+	margin: auto;
+}
+
+div.scene1, div.scene2{
+	display: flex;
+}
