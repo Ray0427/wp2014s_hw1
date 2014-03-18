@@ -12,6 +12,11 @@ a{
 	text-align: center;
 	margin: 0px;
 }
+right.a{
+	position: relative;
+	float: right;
+}
+}
 div.scene1 img, div.scene2 img{
 	display: block;
 	margin: auto;
