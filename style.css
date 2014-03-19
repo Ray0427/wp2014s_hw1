@@ -29,7 +29,7 @@ DIV.block {
 nav.nav2{
 	display: block;
   position:relative;
-  top:200px;
+  top:100px;
     WIDTH: 913px; 
 	text-decoration: none;
 	text-align: center;
@@ -39,7 +39,7 @@ nav.nav2{
 }
 div.topimages{
 	position:relative;
-	top:200px;
+	top:100px;
   WIDTH: 913px;
 }
 a{
