@@ -82,6 +82,7 @@ img{
 
 main
 article{
+	float: left;
 	height: 200%;
 	width: 100%;
 	padding-top: 0%;
