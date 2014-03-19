@@ -6,10 +6,10 @@ BODY {
 	background-image: url(http://www.taipeitravel.net/frontsite/images/bg.jpg);
 	background-repeat: repeat-x;
 }
-div.apDiv1 {
+div.right {
   list-style: none;
   position:absolute;
-  right:0px;
+  float:right;
   width:51px;
   height:194px;
   z-index:1;
