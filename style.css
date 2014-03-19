@@ -1,30 +1,50 @@
+BODY {
+	MARGIN: 0px auto;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	COLOR: #333333;
+	font-size:80%;line-height: 155%;
+	background-image: url(http://www.taipeitravel.net/frontsite/images/bg.jpg);
+	background-repeat: repeat-x;
+}
+div.apDiv1 {
+  position:absolute;
+  width:51px;
+  height:194px;
+  z-index:1;
+  margin:156px 0px 0px 923px;
+  
+  }
 DIV.block {
 	FLOAT: left; WIDTH: 212px;
+    background:white;
+  text-decoration: none;
+  
 }
 nav.nav2{
 	display: inline-block;
+    WIDTH: 913px; 
 	text-decoration: none;
 	text-align: center;
 	background: rgba(102,25,36,0.2);
 	overflow: auto;
 	padding: 0px auto;
 }
+div.topimages{
+  WIDTH: 913px;
+}
 a{
 	font-family: "DFKai-sb";
 	font-size: 18px;
 	text-align: center;
 	margin: 0px;
-	
+
 }
-right.a{
-	position: relative;
-	float: right;
-}
+
 }
 div.scene1 img, div.scene2 img{
 	display: block;
 	margin: auto;
-}
+ }
 
 div.scene1, div.scene2{
 	display: flex;
