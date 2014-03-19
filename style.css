@@ -20,7 +20,7 @@ div.apDiv1 {
   list-style: none;
 }
 DIV.block {
-	position:relative;
+	
 	FLOAT: left; WIDTH: 212px;
     background:white;
   text-decoration: none;
@@ -38,6 +38,7 @@ nav.nav2{
 	padding: 0px auto;
 }
 div.topimages{
+	position:relative;
   WIDTH: 913px;
 }
 a{
