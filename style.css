@@ -15,6 +15,7 @@ div.apDiv1 {
   
   }
 DIV.block {
+	display: block;
 	FLOAT: left; WIDTH: 212px;
     background:white;
   text-decoration: none;
