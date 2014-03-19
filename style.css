@@ -65,6 +65,7 @@ div.scene1 img, div.scene2 img{
 div.scene1, div.scene2{
 	display: flex;
 	width:913px;
+	border:1px solid;
 }
 main{
 	position:positive;
