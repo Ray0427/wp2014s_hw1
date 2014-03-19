@@ -34,7 +34,7 @@ nav.nav2{
     WIDTH: 913px; 
 	text-decoration: none;
 	text-align: center;
-	background: rgba(102,25,36,0.2);
+	background: white;
 	overflow: auto;
 	padding: 0px auto;
 }
@@ -71,6 +71,7 @@ main{
 	display: inline-flex;
 	flex-basis: 78%;
 	background: rgba(255,0,0,0.1);
+	border:1px solid;
 }
 main
 img{
