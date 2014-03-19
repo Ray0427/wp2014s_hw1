@@ -50,12 +50,13 @@ a{
 div.scene1 img, div.scene2 img{
 	display: block;
 	margin: auto;
-  width:913px;
+  
   
  }
 
 div.scene1, div.scene2{
 	display: flex;
+	width:913px;
 }
 #tmenu_menu{list-style-type: none;padding:15px 0px 5px 0px;margin:0px auto;width:190px;}
 #tmenu_menu li{list-style: none;}
