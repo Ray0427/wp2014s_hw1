@@ -9,6 +9,7 @@ BODY {
 div.apDiv1 {
   list-style: none;
   position:absolute;
+  right:0px;
   width:51px;
   height:194px;
   z-index:1;
