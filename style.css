@@ -65,4 +65,16 @@ div.scene1, div.scene2{
 	display: flex;
 	width:913px;
 }
+main
+img{
+	float: left;
+	max-height: 100%;
+	margin-left: 6%;
+}
 
+main
+article{
+	height: 200%;
+	width: 100%;
+	padding-top: 0%;
+}
