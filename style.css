@@ -39,9 +39,9 @@ nav.nav2{
 }
 div.topimages{
 	display: block;
-	position:relative;
+	position:relative center;
 	top:100px;
-	left:200px;
+	
   WIDTH: 913px;
 }
 a{
