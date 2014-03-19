@@ -7,6 +7,7 @@ BODY {
 	background-repeat: repeat-x;
 }
 div.apDiv1 {
+  list-style: none;
   position:absolute;
   width:51px;
   height:194px;
@@ -14,8 +15,11 @@ div.apDiv1 {
   margin:156px 0px 0px 923px;
   
   }
+#apDiv1 li{
+  border:1px #cccccc solid;
+  list-style: none;
+}
 DIV.block {
-	display: block;
 	FLOAT: left; WIDTH: 212px;
     background:white;
   text-decoration: none;
@@ -23,7 +27,7 @@ DIV.block {
 }
 nav.nav2{
 	display: inline-block;
-	position:relative;
+  height: ;
     WIDTH: 913px; 
 	text-decoration: none;
 	text-align: center;
@@ -46,8 +50,29 @@ a{
 div.scene1 img, div.scene2 img{
 	display: block;
 	margin: auto;
+  width:913px;
+  
  }
 
 div.scene1, div.scene2{
 	display: flex;
+}
+#tmenu_menu{list-style-type: none;padding:15px 0px 5px 0px;margin:0px auto;width:190px;}
+#tmenu_menu li{list-style: none;}
+#tmenu_menu li a{
+	display: block;
+	position:left;
+	background-position:bottom;
+	color: #666666;
+	text-decoration: none;
+	padding: 6px 0px 6px 22px;
+	font-size: 13px;
+	line-height: 16px;
+}
+#tmenu_menu li ul{
+  
+	list-style: none;
+	margin: 0px;
+	padding:0px 10px 0px 10px;
+	font-weight: normal;
 }
