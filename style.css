@@ -89,4 +89,5 @@ article{
 	width: 100%;
 	padding-top: 0%;
 }
-ul{border:1px solid;}
+ul{width:20em;
+	border:1px solid;}
