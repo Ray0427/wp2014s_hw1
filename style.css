@@ -21,7 +21,7 @@ DIV.block {
   
 }
 nav.nav2{
-	display: inline-block;
+	display: block;
     WIDTH: 913px; 
 	text-decoration: none;
 	text-align: center;
