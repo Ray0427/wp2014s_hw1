@@ -3,7 +3,7 @@ BODY {
 	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
 	COLOR: #333333;
 	font-size:80%;line-height: 155%;
-	background-image: url(http://www.taipeitravel.net/frontsite/images/bg.jpg);
+	background-image: url(http://www.taipeitravel.net/frontsite/images/bg.jpg)100%;
 	background-repeat: repeat-x;
 }
 div.apDiv1 {
