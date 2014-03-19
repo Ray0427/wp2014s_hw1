@@ -68,7 +68,7 @@ div.scene1, div.scene2{
 }
 main{
 	position:positive;
-	top:300px;
+	top:200px;
 	display: inline-flex;
 	flex-basis: 78%;
 	background: white;
