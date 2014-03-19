@@ -57,13 +57,4 @@ div.scene1 img, div.scene2 img{
 div.scene1, div.scene2{
 	display: flex;
 }
-#tmenu_menu{list-style-type: none;padding:15px 0px 5px 0px;margin:0px auto;width:190px;}
-#tmenu_menu li{list-style: none;}
 
-#tmenu_menu li ul{
-  
-	list-style: none;
-	margin: 0px;
-	padding:0px 10px 0px 10px;
-	font-weight: normal;
-}
