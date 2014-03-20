@@ -8,7 +8,7 @@ BODY {
 }
 div.right {
   list-style: none;
-  position:absolute;
+  position:relative;
   float:right;
   width:51px;
   height:194px;
@@ -18,7 +18,7 @@ div.right {
   }
   div.left {
   list-style: none;
-  position:absolute;
+  position:relative;
   float:left;
   width:51px;
   height:194px;
