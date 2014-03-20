@@ -35,6 +35,7 @@ div.right {
 
 DIV.block {
 	position:relative;
+	top:10;
 	 WIDTH: 212px;
     background:white;
   text-decoration: none;
