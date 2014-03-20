@@ -41,8 +41,8 @@ DIV.block {
   text-decoration: none;
   
 }
-#block a{
-	top:100px;
+div.block a{
+	padding:2px;
 }
 nav.nav2{
 	display: block;
