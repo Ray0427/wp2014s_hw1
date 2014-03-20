@@ -25,10 +25,10 @@ div.right {
   list-style: none;
   position:relative;
   float:left;
-  width:51px;
-  height:194px;
+  
+  
   z-index:1;
-  margin:156px 0px 0px 923px;
+  margin:0px ;
   
   }
 #apDiv1 li{
