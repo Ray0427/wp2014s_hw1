@@ -11,10 +11,9 @@ div.right {
   list-style: none;
   position:relative;
   float:right;
-  width:51px;
-  height:194px;
+ 
   z-index:1;
-  margin:156px 0px 0px 923px;
+  margin: 0px ;
   list-style:none;
   }
   div.right ul,li{
