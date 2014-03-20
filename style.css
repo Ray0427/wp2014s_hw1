@@ -79,13 +79,13 @@ div.scene1 img, div.scene2 img{
 div.scene1, div.scene2{
 	margin: 0px auto;
 	display: flex;
-	width:613px;
+	width:913px;
 	border:1px solid;
 }
 main{
 	position:positive;
 	top:200px;
-	display: inline-flex;
+	
 	flex-basis: 78%;
 	background: white;
 	border:1px solid;
