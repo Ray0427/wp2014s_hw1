@@ -27,8 +27,8 @@ div.right {
   
   div.left {
   list-style: none;
-  position:relative;
-  float:left;
+  position:absolute;
+  left:0;
   
   
   z-index:1;
