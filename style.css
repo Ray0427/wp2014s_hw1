@@ -1,4 +1,5 @@
 BODY {
+	min-width: 960px;
 	MARGIN: 0px auto;
 	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
 	COLOR: #333333;
