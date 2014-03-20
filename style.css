@@ -1,5 +1,5 @@
 BODY {
-	min-width: 960px;
+	
 	MARGIN: 0px auto;
 	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
 	COLOR: #333333;
@@ -15,6 +15,7 @@ div.right {
   height:194px;
   z-index:1;
   margin:156px 0px 0px 923px;
+  list-style-type
   
   }
   div.left {
