@@ -82,6 +82,7 @@ div.scene1, div.scene2{
 	margin: 0px auto;
 	display: flex;
 	margin:5px;
+	width:613px;
 	border:1px solid pink;
 }
 main{
