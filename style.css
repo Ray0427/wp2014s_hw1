@@ -41,8 +41,8 @@ DIV.block {
   text-decoration: none;
   
 }
-div.block a{
-	padding:10 0 10 0;
+#topbar{
+	padding:10px 0px 10px 0px;
 }
 nav.nav2{
 	display: block;
