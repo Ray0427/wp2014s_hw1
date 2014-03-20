@@ -16,8 +16,11 @@ div.right {
   z-index:1;
   margin:156px 0px 0px 923px;
   list-style:none;
-  
   }
+  div.right ul,li{
+  	list-style:none;
+  	}
+  
   div.left {
   list-style: none;
   position:relative;
