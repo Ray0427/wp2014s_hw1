@@ -41,7 +41,7 @@ DIV.block {
   text-decoration: none;
   
 }
-DIV.block a{
+#block a{
 	top:100px;
 }
 nav.nav2{
