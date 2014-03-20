@@ -92,6 +92,9 @@ div.scene1{
 	width:613px;
 	border:1px solid pink;
 }
+div.scene1 p{
+	display:inline-block;
+}
 main{
 	position:positive;
 	top:200px;
