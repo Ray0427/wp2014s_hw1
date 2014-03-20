@@ -35,11 +35,14 @@ div.right {
 
 DIV.block {
 	position:relative;
-	top:10;
+	
 	 WIDTH: 212px;
     background:white;
   text-decoration: none;
   
+}
+DIV.block a{
+	top:10px;
 }
 nav.nav2{
 	display: block;
