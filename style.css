@@ -72,7 +72,7 @@ a{
 
 
 div.scene1 img, div.scene2 img{
-	display: block;
+	display: inline-block;
 	margin: auto;
   
   
