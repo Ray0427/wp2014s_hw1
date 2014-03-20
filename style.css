@@ -80,7 +80,7 @@ div.scene1 img, div.scene2 img{
 
 div.scene1, div.scene2{
 	margin: 0px auto;
-	
+	display:block;
 	margin:5px;
 	width:613px;
 	border:1px solid pink;
