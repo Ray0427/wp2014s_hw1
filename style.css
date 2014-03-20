@@ -8,6 +8,9 @@ BODY {
 	background-image: url(http://www.taipeitravel.net/frontsite/images/bg.jpg);
 	background-repeat: repeat-x;
 }
+div.container{
+	position:relative;
+}
 div.right {
   list-style: none;
   position:relative;
@@ -31,6 +34,9 @@ div.right {
   z-index:1;
   margin:0px ;
   
+  }
+  div.middle{
+  	margin:0px ;
   }
 
 DIV.block {
