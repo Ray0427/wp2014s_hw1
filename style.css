@@ -71,16 +71,16 @@ a{
 }
 
 
-div.scene1 img, div.scene2 img{
+div.scene1 img{
 	display: inline-block;
 	margin: auto;
   
   
  }
 
-div.scene1, div.scene2{
+div.scene1{
 	margin: 0px auto;
-	position:relative;
+	display:;
 	
 	margin:5px;
 	width:613px;
