@@ -104,7 +104,7 @@ div.scene1{
 	border-radius:20px ;
 }
 div.scene1 p{
-	margin:auto;
+	margin-top:0px;
 	display:inline-block;
 }
 
