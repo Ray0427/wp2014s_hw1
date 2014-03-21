@@ -65,6 +65,7 @@ nav.nav2{
 	padding: 0px auto;
 }
 div.topimages{
+	border-radius:60px ;
 	display: block;
 	position:relative ;
 	
