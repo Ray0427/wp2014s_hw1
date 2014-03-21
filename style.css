@@ -31,7 +31,7 @@ div.right {
   position:absolute;
   left:0;
   
-  
+  padding:auto;
   z-index:1;
   margin:0px ;
   
