@@ -100,7 +100,7 @@ div.scene1 p{
 	
 	display:inline-block;
 }
-div.scene1 p:img{
+div.scene1.p img{
 	padding:0px;
 }
 <!--
