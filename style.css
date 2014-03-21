@@ -97,6 +97,7 @@ div.scene1{
 	border-radius:20px ;
 }
 div.scene1 p{
+	padding:0px;
 	display:inline-block;
 }
 <!--
