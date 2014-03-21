@@ -30,7 +30,7 @@ div.right {
   position:absolute;
   left:0;
   
-  
+  border-radius:20px ;
   z-index:1;
   margin:0px ;
   
@@ -65,7 +65,7 @@ nav.nav2{
 	padding: 0px auto;
 }
 div.topimages{
-	border-radius:60px ;
+	border-radius:20px ;
 	display: block;
 	position:relative ;
 	
@@ -90,11 +90,9 @@ div.scene1 img{
 
 div.scene1{
 	margin: 6px auto;
-	
-	
-	
 	width:613px;
-	border:1px solid pink;
+	border:2px solid pink;
+	border-radius:20px ;
 }
 div.scene1 p{
 	display:inline-block;
