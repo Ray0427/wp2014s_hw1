@@ -83,13 +83,17 @@ a{
 
 
 div.scene1 img{
-	padding:10px;
+	
 	display: inline-block;
 	margin: auto;
   
   
  }
-
+ 
+img.type1{
+	padding:10px;
+}
+}
 div.scene1{
 	margin: 6px auto;
 	width:613px;
@@ -100,9 +104,7 @@ div.scene1 p{
 	
 	display:inline-block;
 }
-div.scene1.p img{
-	padding:0px;
-}
+
 <!--
 main{
 	position:positive;
